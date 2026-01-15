@@ -1,2 +1,2 @@
-# api-front-chatbot
-Este el diseño de todo el front de nuestro 
+# backend-delpryecto-chatbot
+Este es toda la estrctura del backend de este proyecto, 
